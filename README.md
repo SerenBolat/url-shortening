@@ -72,5 +72,5 @@
 
 ## Project Setup
 
-- git clone https://github.com/SerenBolat/solactive-case-study.git
+- git clone https://github.com/SerenBolat/url-shortening.git
 - mvn clean install
